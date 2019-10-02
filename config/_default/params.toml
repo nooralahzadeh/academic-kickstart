@@ -10,7 +10,6 @@ day_night = true
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
 font = "playfair"
-
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
@@ -91,7 +90,6 @@ map_api_key = ""
 latitude = "37.4275"
 longitude = "-122.1697"
 zoom = 15
-
 ############################
 ## Plugins                ##
 ############################
@@ -141,7 +139,7 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
+  post_view = 1
   publication_view = 2
   talk_view = 2
 

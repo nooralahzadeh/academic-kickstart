@@ -37,6 +37,8 @@ education:
   - course: BSc in Industrial Engineering at System analysis and planning
     institution: IRAN University of Science and technology
 
+
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -56,8 +58,8 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "[fistname]no@ifi.uio.no"
-  
+email: "farhadno@uio.no"
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 #user_groups:
@@ -65,10 +67,10 @@ email: "[fistname]no@ifi.uio.no"
 #- Visitors
 ---
 
-I am a final-year Ph.D. student in <a href='https://www.mn.uio.no/ifi/english/research/groups/ltg/'>Language Technology group</a> at University of Oslo. 
+I am a final-year Ph.D. student in <a href='https://www.mn.uio.no/ifi/english/research/groups/ltg/'>Language Technology group</a> at University of Oslo.
 
-Before starting a Phd,  I was a research engineer at the Inria Sophia-Antipolis research center in the <a href="https://team.inria.fr/wimmics/">WIMMICS </a> team.  Prior to that, I spent one year in the Parsing and Semantics Group at Xerox Research Center Europe in Grenoble (France) which is now <a href="https://europe.naverlabs.com/">Naver Labs Europe</a>. I got my master from <a  href="http://www.em-dmkm.eu/">Erasmus mundus master program in Data mining and Knowledge Management</a>. 
+Before starting a Ph.D, I was a research engineer at the Inria Sophia-Antipolis research center in the <a href="https://team.inria.fr/wimmics/">WIMMICS </a> team.  Prior to that, I spent one year in the Parsing and Semantics Group at Xerox Research Center Europe in Grenoble (France) which is now <a href="https://europe.naverlabs.com/">Naver Labs Europe</a>. I got my master from <a  href="http://www.em-dmkm.eu/">Erasmus mundus master program in Data mining and Knowledge Management</a>.
 
-My research focuses on domain adapted information extraction for Oil&Gas , where we collaborate with the industry in <a href="https://sirius-labs.no/">SIRIUS</a> centre to provide scalable data access tools for Oil and Gas domain. 
+My research focuses on domain adapted information extraction for Oil&Gas , where we collaborate with the industry in <a href="https://sirius-labs.no/">SIRIUS</a> centre to provide scalable data access tools for Oil and Gas domain.
 
-Currently, I am on the research stay at <a href="https://copenlu.github.io/">Copenhagen NLU research group</a> to work on Joint domain and cross-lingual adaptation methods.
+During summer 2019, I was on the research stay at <a href="https://copenlu.github.io/"> Copenhagen NLU research group</a> and worked on Joint domain and cross-lingual adaptation methods.
